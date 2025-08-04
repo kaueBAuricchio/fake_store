@@ -1,16 +1,14 @@
 # fake_store
 
-A new Flutter project.
+project created with flutter
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+we use in the project:
+Modular
+Riverpod
+Dio
+Equatable
+Dartz
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+the project is a fake store where we use API to receive a response and return a list of products
